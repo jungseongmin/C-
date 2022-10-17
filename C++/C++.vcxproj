@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++.cpp" />
+    <ClCompile Include="헤더1.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="헤더.h" />
