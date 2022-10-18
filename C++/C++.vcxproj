@@ -128,10 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++.cpp" />
-    <ClCompile Include="헤더1.h" />
+    <ClCompile Include="2022.10.14.h" />
+    <ClCompile Include="Monster.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="헤더.h" />
+    <ClInclude Include="2022.10.13.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="이름공간 (2022.10.17).h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
