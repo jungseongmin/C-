@@ -8,9 +8,10 @@ class Monster
 {
 	// this 포인터란?
 	// 객체 자신을 가리키는 포인터입니다.
-
+	/*
 	void Attack(int power); // 함수 선언
 	this->power = power;
-	std::cout << this << "이 객체가" << this->power << "만큼 공격하였습니다." << std::endl;
+	std::cout << this << "이 객체가" << this->power << "만큼 공격하였습니다." << std::end;
+	*/
 };
 
