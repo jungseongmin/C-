@@ -41,5 +41,8 @@
     <ClInclude Include="2022.10.19 %28참조자%29.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="2022.10.20 (얕은 복사와 깊은 복사).h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
