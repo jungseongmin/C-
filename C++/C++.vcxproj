@@ -139,6 +139,7 @@
     <ClInclude Include="이름공간 (2022.10.17).h" />
     <ClInclude Include="2022.10.18 %28클래스와 구현%29.h" />
     <ClInclude Include="2022.10.24 %28가상함수%29.h" />
+    <ClInclude Include="2022.10.24 %28추상 클래스%29.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

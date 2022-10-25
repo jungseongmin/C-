@@ -47,5 +47,8 @@
     <ClInclude Include="2022.10.24 %28가상함수%29.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="2022.10.24 %28추상 클래스%29.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
