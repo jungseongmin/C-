@@ -53,5 +53,8 @@
     <ClInclude Include="2022.10.25 %28가상 소멸자%29.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="2022.10.26 %28가상 상속%29.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

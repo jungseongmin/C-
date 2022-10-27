@@ -141,6 +141,7 @@
     <ClInclude Include="2022.10.24 %28가상함수%29.h" />
     <ClInclude Include="2022.10.24 %28추상 클래스%29.h" />
     <ClInclude Include="2022.10.25 %28가상 소멸자%29.h" />
+    <ClInclude Include="2022.10.26 %28가상 상속%29.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
